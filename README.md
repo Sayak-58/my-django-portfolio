@@ -5,8 +5,8 @@ This is a Simple Python Django Portolio.The portfolio is easy  just use "/admin"
 <h3> 
      
      
-<div> <img src="https://github.com/Sayak-58/my-django-portfolio/blob/main/localhost_8000_bright.png?raw=true"  />
-<div> <img src="https://github.com/Sayak-58/my-django-portfolio/blob/main/localhost_8000_dark.png?raw=true"  />
+<div> <img src="https://github.com/Sayak-58/my-django-portfolio/blob/main/static/images/localhost_8000_bright.png?raw=true"  />
+<div> <img src="https://github.com/Sayak-58/my-django-portfolio/blob/main/static/images/localhost_8000_dark.png?raw=true"  />
 
 
 ## Run these Commads
